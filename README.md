@@ -1,2 +1,2 @@
 # MyWebsite-
-this is online food ordering system website ..... 
+This is online food ordering website for foody moodies..
